@@ -1,7 +1,12 @@
-# Dot_Product
-Made with SFML / C++, 2017's school project, the goal was to link maths and programming.
+# SFML-GameFramework
+After trying the Cinder library, I decided to come back to the SFML to create my Game Framework
 
-In this mini game you have to avoid to be seen.
+## Project informations
 
-Here is a screenshot. The red one are the ones triggered by the player.
-![Screen shot from th mini game](https://i.ibb.co/853KCfT/dot-product.png)
+* Platform : Windows
+* IDE : Visual Studio 2017
+* Additionnal libraries : SFML
+
+## Class diagram
+
+<img src="vs2017/ClassDiagram.png" alt="ClassDiagram">
